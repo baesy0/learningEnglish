@@ -6,7 +6,7 @@
   - 영어로 설득하기
 - 실력테스트
   - [옥스포드 bookwarm leveltest 링크](https://elt.oup.com/student/readersleveltest/?cc=kr&selLanguage=ko)
-  - [bookwarm leveltest based Level Test Sentences](../levelTest.md)
+  - [bookwarm leveltest based Level Test Sentences](./levelTest.md)
 - 영어에 대한 개괄
   - 영어의 특성
     - 영어는 자리가 뜻을 결정한다.
