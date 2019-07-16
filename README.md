@@ -16,7 +16,6 @@
 ## 2. 문장의 5형식
 - [문장의 5형식](docs/fiveStructures.md)
 - [끊어읽기](docs/HowToRead.md)
-  - 해석의 감각.
 - [Q&A](docs/QnA_1.md)
 - 단어를 익히는 법. 사전을 보는 법.
 - 부정문
