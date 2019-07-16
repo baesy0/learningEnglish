@@ -6,7 +6,7 @@
   - 영어로 설득하기
 - 실력테스트
   - [옥스포드 bookwarm leveltest 링크](https://elt.oup.com/student/readersleveltest/?cc=kr&selLanguage=ko)
-  - [bookwarm leveltest based Level Test Sentences](./levelTest.md)
+  - [bookwarm leveltest based Level Test Sentences](docs/levelTest.md)
 - 영어에 대한 개괄
   - 영어의 특성
     - 영어는 자리가 뜻을 결정한다.
@@ -14,12 +14,12 @@
   - 단어에 대한 태도
 
 ## 2. 문장의 5형식
-- [문장의 5형식](./fiveStructures.md)
+- [문장의 5형식](docs/fiveStructures.md)
 - 끊어읽기
   - 직독직해
   - 주어, 동사를 어떻게 찾지?
   - 해석의 감각.
-- [Q&A](./QnA_1.md)
+- [Q&A](docs/QnA_1.md)
 - 단어를 익히는 법. 사전을 보는 법.
 - 부정문
 - 의문문
