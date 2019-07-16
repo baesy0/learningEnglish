@@ -12,6 +12,8 @@
 3형식| S + V + O
 4형식| S + V + I.O + D.O
 5형식| S + V + O + O.C
+
+*S: Subject / V: Verb / C: Compemnet / O: Object / I.O: Indirect Object / D.O: Direct Object / O.C: Objective Complement.*
 ## 1형식(S + V)
 주어 + 동사
 ### example sentences
@@ -20,7 +22,7 @@
 - God exists.
 ## 2형식(S + V + C)
 주어 + 동사 + 보어
--  보어: 주어와 서술어만으로는 뜻이 완전하 않은 문장에서 그 불완전한 곳을 보충하여 뜻으 완전하게 하는 수식어.
+-  보어: 주어와 서술어만으로는 뜻이 완전하 않은 문장에서 그 불완전한 곳을 보충하여 뜻을 완전하게 하는 수식어.
   2형식에서의 보어는 주격보어.  
 ### example sentences
 - She is a teacher.
@@ -28,13 +30,18 @@
 ## 3형식(S + V + O)
 주어 + 동사 + 목적어
 ### example sentences
+- He had a hambuger.
+- She has a car.
 ## 4형식(S + V + I.O + D.O)
 주어 + 동사 + 간접목적어 + 직접목적어
 ### example sentences
+- I gave him some food.
+- Tom told her the truth.
 ## 5형식(S + V + O + O.C)
 주어 + 동사 + 목적어 + 목적격 보어
 ### example sentences
-
+- She found him cute.
+- Tom got his arm broken
 
 ## Comment
 지금은 이렇게 문법으로 배우지만 나중에는 문법을 생각하지 않아도 해석이 될 거에요.
