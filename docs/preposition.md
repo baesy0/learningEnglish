@@ -8,7 +8,7 @@
 - 점
   - `Bundy is at the bus stop.`
 - 선
-  - `The bus goes from Ilsan to Ganman.`
+  - `The bus goes from Ilsan to Gangnam.`
   - `Bundy went over the Hannam Bridge.`
 - 면
   - `Bundy fell on the floor of the bus.`
