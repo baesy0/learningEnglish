@@ -6,22 +6,22 @@
 전치사는 두 사물간의 관계를 점에서 출발해 1차원, 2차원, 3차원으로 확대해가며 나타내줍니다.
 ### 공간
 - 점
-`Bundy is at the bus stop.`
+  - `Bundy is at the bus stop.`
 - 선
-`The bus goes from Ilsan to Ganman.`
-`Bundy went over the Hannam Bridge.`
+  - `The bus goes from Ilsan to Ganman.`
+  - `Bundy went over the Hannam Bridge.`
 - 면
-`Bundy fell on the floor of the bus.`
-`Bundy travels over the country.`
+  - `Bundy fell on the floor of the bus.`
+  - `Bundy travels over the country.`
 - 공간
-`Bundy is now in the building.`
+  - `Bundy is now in the building.`
 ### 시간
 - 점
-  `Bundy went to bed at night.`
+  - `Bundy went to bed at night.`
 - 선
-`Bundy earned a million dollars over a year.`
+  - `Bundy earned a million dollars over a year.`
 - 공간
-`Bundy will go down in history as a hero.`
+  - `Bundy will go down in history as a hero.`
 
 ## Across, Over, Beyond
 ## At, On
