@@ -18,9 +18,10 @@
 - [x] [문장의 5형식](docs/fiveStructures.md)
 - [x] [직독직해](docs/HowtoRead.md)
 - [x] [Q&A](docs/QnA_1.md)(19.07.15)
-- [ ] 관사
+- [ ] [관사](docs/article.md)
 - [ ] 품사
 ## 3. 전치사
+- [ ] [전치사란? - 전치사 맛보기](docs/preposition.md)
 ## 4. 문장의 종류
 - 부정문
 - 의문문
