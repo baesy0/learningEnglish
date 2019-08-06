@@ -24,7 +24,7 @@
 - [x] [전치사란? - 전치사 맛보기](docs/preposition.md)(2019.7.26)
 ## 4. 문장의 종류
 - [x] [의문문](docs/question.md)(2019.8.5)
-  - [숙제](docs/questionHW.md)
+  - [숙제](docs/questionHW1.md)
 - 부정문
 - 수동태
 ## 5. 시제
