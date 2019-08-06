@@ -7,6 +7,9 @@
 - [x] 실력테스트
   - [옥스포드 bookwarm leveltest 링크](https://elt.oup.com/student/readersleveltest/?cc=kr&selLanguage=ko)
   - [bookwarm leveltest based Level Test Sentences](docs/levelTest.md)
+- [x] 교재
+  - 천일문 기본 Basic ver.3.0
+  - [천일문 듣기 자료](http://www.cedubook.com/adm/library/down_pop.php?idx=448&type=1)
 - [x] 언어공부에 대한 개괄
   - [언어란. 언어를 배우는 것이란.](./docs/aboutLanguage.md)
   - [단어를 익히는 법](./docs/words.md)
