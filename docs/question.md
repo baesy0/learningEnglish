@@ -60,7 +60,7 @@ How many, How often..etc|정도
   1. Sally played `what` at park yesterday.
     &rarr; What did Sally play at park yesterday.
   1. Sally played basketball `where` yesterday.
-    &rarr; Where did Sally played basketball yesterday.
+    &rarr; Where did Sally play basketball yesterday.
   1. Sally played basketball at park `when`.
     &rarr; When did Sally played basketball at park.
   1. `who` played basketball at park yesterday.
