@@ -26,4 +26,27 @@ be동사와 조동사의 경우 동사 뒤에 바로 not을 붙여주면 됩니�
   - `I have money.`(나는 돈이 있다.) &rarr; `I do not have money.`(나는 돈이 없다.)
   - `She went to church.`(그녀는 교회에 갔었다.) &rarr; `She did not go to church.`(그녀는 교회에 가지 않았다.)
 
-## no를 이용한 부
+## no를 이용한 부정문
+명사(부정의 대상) 앞에 no를 붙여서 부정문을 만들 수 있습니다.<br>
+
+- examples
+  - `I don't have money.` = `I have no money.`
+  - `There isn't homework.` = `There is no homework.`
+  - `I won't(=will not) lie` = `I will tell no lie.`
+  
+## 부정어를 이용한 부정문
+no와 not을 제외한 부정어를 이용하여 부정문을 만들 수 있습니다.<br>
+부정어는 단어 자체에 부정의 의미가 내포되어 있는 것들을 말해요.(그래서 no, not도 부정어입니다.)<br>
+부정어에는 never, seldom, scarcely, hardly, few, little 등등이 있어요.<br>
+
+- examples
+  - `Sometimes I late for school.`(나는 때때로 학교에 늦는다.) &rarr; `I never late for school.`(나는 학교에 절대 늦지 않는다)
+  - `Everyone helped me.`(모두 나를 도와줬다.) &rarr; `None of them hepled me.`(누구도 나를 도와주지 않았다.)
+
+## Comment
+- 보통 `do not`은 `don't`로, `cannot`은 `can't`로 축약하여 사용합니다.
+- 강조하고 싶은 경우 일부러 축약하지 않는 경우도 있습니다.
+- `cannot`은 띄어쓰지 않아요. `can not`(X) `cannot`(O)
+
+## Reference
+[송성태 영문법 블로그](https://take2.tistory.com/entry/%EC%98%81%EC%96%B4%EC%9D%98-%EB%B6%80%EC%A0%95%EB%AC%B8)
