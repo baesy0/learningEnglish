@@ -29,7 +29,7 @@
 - [x] [의문문](docs/question.md)(2019.8.5)
   - [의문문 연습 문장 1](docs/questionHW1.md)
   - [의문문 연습 문장 2](docs/questionHW2.md)
-- 부정문
+- [x] [부정문](docs/negation.md)(2019.8.12)
 - 수동태
 ## 5. 시제
 ## 6. 조동사
