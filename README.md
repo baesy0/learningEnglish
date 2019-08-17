@@ -31,7 +31,7 @@
   - [의문문 연습 문장 2](docs/questionHW2.md)
 - [x] [부정문](docs/negation.md)(2019.8.12)
   - [부정문 연습 문장](docs/negationHW.md)
-- 
+- 명령문
 - 수동태
 ## 5. 시제
 ## 6. 조동사
