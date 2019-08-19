@@ -25,13 +25,14 @@
 - [ ] 품사
 ## 3. 전치사
 - [x] [전치사란? - 전치사 맛보기](docs/preposition.md)(2019.7.26)
+- [x] [전치사를 통한 해석의 긴장감](2019.8.19)
 ## 4. 문장의 종류
 - [x] [의문문](docs/question.md)(2019.8.5)
   - [의문문 연습 문장 1](docs/questionHW1.md)
   - [의문문 연습 문장 2](docs/questionHW2.md)
 - [x] [부정문](docs/negation.md)(2019.8.12)
   - [부정문 연습 문장](docs/negationHW.md)
-- 명령문
+- [x] [명령문](docs/command.md)(2019.8.19)
 - 수동태
 ## 5. 시제
 ## 6. 조동사
