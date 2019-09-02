@@ -14,6 +14,7 @@
   - [언어란. 언어를 배우는 것이란.](./docs/aboutLanguage.md)
   - [단어를 익히는 법](./docs/words.md)
   - 사전 활용 법
+- [x] Phonics(2019.9.1)
 
 ## 2. 문장의 5형식
 - [x] 영어의 특성
@@ -32,9 +33,9 @@
   - [의문문 연습 문장 2](docs/questionHW2.md)
 - [x] [부정문](docs/negation.md)(2019.8.12)
   - [부정문 연습 문장](docs/negationHW.md)
+  - [x] 등위접속사
 - [x] [명령문](docs/command.md)(2019.8.19)
 - [x] [청유문(제안하기)](docs/request.md)
-  - [x] 등위접속사
 - 수동태
 ## 5. 시제
 ## 6. 조동사
