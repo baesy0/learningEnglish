@@ -34,6 +34,7 @@
   - [부정문 연습 문장](docs/negationHW.md)
 - [x] [명령문](docs/command.md)(2019.8.19)
 - [x] [청유문(제안하기)](docs/request.md)
+  - [x] 등위접속사
 - 수동태
 ## 5. 시제
 ## 6. 조동사
