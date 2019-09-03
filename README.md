@@ -1,9 +1,6 @@
 # learningEnglish
 ## 0. Intro
-- [x] 목표 정하기
-  - 친절하게 README 작성하기
-  - 기존에 만들어진 소프트웨어, 개발 메뉴얼, 개발 이슈 등을 영어로 쓰기
-  - 영어로 설득하기
+- [x] [목표 정하기](docs/goal.md)
 - [x] 실력테스트
   - [옥스포드 bookwarm leveltest 링크](https://elt.oup.com/student/readersleveltest/?cc=kr&selLanguage=ko)
   - [bookwarm leveltest based Level Test Sentences](docs/levelTest.md)
