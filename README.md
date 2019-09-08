@@ -13,7 +13,7 @@
   - 사전 활용 법
 
 ## 1. 
-- [x] Phonics(2019.9.1)
+- [x] [Phonics](./docs/phonics.md)(2019.9.1)
 - [x] [등위접속사](./docs/coordinatingConjunction.md)(2019.8.19)
 
 
