@@ -14,7 +14,7 @@
 
 ## 1. 
 - [x] Phonics(2019.9.1)
-- [x] [등위접속사(2019.8.19)](./docs/coordinatingConjunction.md)
+- [x] [등위접속사](./docs/coordinatingConjunction.md)(2019.8.19)
 
 
 ## 2. 문장의 5형식
