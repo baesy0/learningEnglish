@@ -37,7 +37,7 @@
 - [x] [명령문](docs/command.md)(2019.8.19)
   - [x] [청유문(제안하기)](docs/request.md)
 ## 5. 태 / Voice
-- [x] 수동태(2019.9.9)
+- [x] [수동태](docs/passive.md)(2019.9.9)
 ## 6. 시제 / Tense
 ## 7. 조동사
 ## 8. 법 / Mood
