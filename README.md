@@ -16,7 +16,7 @@
 - [x] [Phonics](./docs/phonics.md)(2019.9.1)
 - [x] [등위접속사](./docs/coordinatingConjunction1.md)(2019.8.19)
   - [x] [and, but, or](./docs/coordinatingConjunction2.md)(2019.9.16)
-
+- [x] [대명사](./docs/pronoun.md)(2019.9.16)
 ## 2. 문장의 5형식
 - [x] 영어의 특성
   - 영어는 자리가 뜻을 결정한다.
