@@ -26,3 +26,5 @@
 단어나 단어의 그룹(구, 절)을 연결시켜 주는 말.
 ### 감탄사
 강한 감정이나 느낌을 표현하는 말.
+## Reference
+[스마트 윤선생](http://befly.yoons.com/student/tutor?screenState=F&keyword=&action=knowledge&topArticleNo=45362) - 품사의 정의
