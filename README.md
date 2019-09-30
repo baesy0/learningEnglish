@@ -24,7 +24,7 @@
 - [x] [직독직해](docs/HowtoRead.md)
 - [x] [Q&A](docs/QnA_1.md)(19.07.15)
 - [x] [관사](docs/article.md)
-- [ ] [품사](docs/partsOfSpeech.md)
+- [x] [품사](docs/partsOfSpeech.md)(19.09.23)
 ## 3. 전치사
 - [x] [전치사란? - 전치사 맛보기](docs/preposition.md)(2019.7.26)
 - [x] [전치사를 통한 해석의 긴장감](2019.8.19)
