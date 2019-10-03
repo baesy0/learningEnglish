@@ -12,7 +12,8 @@
   - [단어를 익히는 법](./docs/words.md)
   - 사전 활용 법
 
-## 1. 
+## 1.
+- [x] [관사](docs/article.md)
 - [x] [Phonics](./docs/phonics.md)(2019.9.1)
 - [x] [등위접속사](./docs/coordinatingConjunction1.md)(2019.8.19)
   - [x] [and, but, or](./docs/coordinatingConjunction2.md)(2019.9.16)
@@ -23,7 +24,6 @@
 - [x] [문장의 5형식](docs/fiveStructures.md)
 - [x] [직독직해](docs/HowtoRead.md)
 - [x] [Q&A](docs/QnA_1.md)(19.07.15)
-- [x] [관사](docs/article.md)
 - [x] [품사](docs/partsOfSpeech.md)(19.09.23)
 ## 3. 전치사
 - [x] [전치사란? - 전치사 맛보기](docs/preposition.md)(2019.7.26)
