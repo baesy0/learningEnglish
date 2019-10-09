@@ -25,7 +25,7 @@
 - [x] [직독직해](docs/HowtoRead.md)
 - [x] [Q&A](docs/QnA_1.md)(19.07.15)
 - [x] [품사](docs/partsOfSpeech.md)(19.09.23)
-- [x] 문장의 뼈와 살(19.09.30)
+- [x] [문장의 뼈와 살](docs/partsOfSpeech2.md)(19.09.30)
 -----------------
 - [ ] 명사
 - [ ] 형용사
