@@ -27,7 +27,7 @@
 - [x] [품사](docs/partsOfSpeech.md)(19.09.23)
 - [x] [문장의 뼈와 살](docs/partsOfSpeech2.md)(19.09.30)
 -----------------
-- [ ] 명사
+- [x] [명사](docs/nounPhraseClause.md)
   - [x] 명사구(19.10.09)
   - [x] 명사절(19.10.14)
 - [ ] 형용사
