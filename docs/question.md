@@ -57,13 +57,13 @@ How many, How often..etc|정도
 
 - examples<br>
 `Sally played basketball at park yesterday.`(샐리는 어제 공원에서 농구를 했다.)
-  1. Sally played `what` at park yesterday.
+  1. Sally played `what` at park yesterday.<br>
     &rarr; What did Sally play at park yesterday.
-  1. Sally played basketball `where` yesterday.
+  1. Sally played basketball `where` yesterday.<br>
     &rarr; Where did Sally play basketball yesterday.
-  1. Sally played basketball at park `when`.
+  1. Sally played basketball at park `when`.<br>
     &rarr; When did Sally play basketball at park.
-  1. `who` played basketball at park yesterday.
+  1. `who` played basketball at park yesterday.<br>
     &rarr; Who played basketball at park yesterday.
     - 주어에 대해서 물을 때는 주어와 서술어의 위치를 바꾸지 않고, 주어만 의문사로 바꾸어주면 됩니다.
 
