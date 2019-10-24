@@ -22,7 +22,7 @@
 `단어`가 모여서 `문장`이 되고,<br/>
 `문장`이 모여서 `글`이 됩니다.<br/>
 `문법`은 단어가 '어떻게 조립되어 문장이 되는지'를 정리해 놓은 거에요.<br/>
-<img src="./img/elementOfLang.png" width="500" height="300"><br/>
+<center><img src="./img/elementOfLang.png" width="500" height="300"><br/></center>
 > 문법은 지식을 전달하기 위한 수단이지 목적이 아니에요. 반복하면서 문장구조에 익숙해지고 나면 문법적 지식은 더이상 필요하지 않아요.
 
 
