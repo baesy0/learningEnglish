@@ -19,18 +19,21 @@
   - [x] [and, but, or](./docs/coordinatingConjunction2.md)(2019.9.16)
 - [x] [대명사](./docs/pronoun.md)(2019.9.16)
 - [x] 가산명사(2019.10.14)
+- [x] 수여동사(2019.10.21)
 ## 2. 문장의 5형식
 - [x] 영어의 특성
   - 영어는 자리가 뜻을 결정한다.
 - [x] [문장의 5형식](docs/fiveStructures.md)
 - [x] [직독직해](docs/HowtoRead.md)
-- [x] [Q&A](docs/QnA_1.md)(19.07.15)
-- [x] [품사](docs/partsOfSpeech.md)(19.09.23)
-- [x] [문장의 뼈와 살](docs/partsOfSpeech2.md)(19.09.30)
+- [x] [Q & A](docs/QnA_1.md)(2019.07.15)
+- [x] [품사](docs/partsOfSpeech.md)(2019.09.23)
+- [x] [문장의 뼈와 살](docs/partsOfSpeech2.md)(2019.09.30)
 -----------------
 - [x] [명사](docs/nounPhraseClause.md)
-  - [x] [명사구](docs/nounPhrase.md)(19.10.09)
-  - [x] 명사절(19.10.14)
+  - [x] [명사구](docs/nounPhrase.md)(2019.10.09)
+  - [x] 명사절(2019.10.14)
+    - 명사절 연습 - 문장 만들어보기 & 말해보기 (2019.10.21)
+    - Q & A(2019.10.27)
 - [ ] 형용사
 - [ ] 부사
 ## 3. 전치사
