@@ -11,6 +11,7 @@
   - [언어란. 언어를 배우는 것이란.](./docs/aboutLanguage.md)
   - [단어를 익히는 법](./docs/words.md)
   - 사전 활용 법
+- [Questions](docs/QnA.md)
 
 ## 1.
 - [x] [관사](docs/article.md)
