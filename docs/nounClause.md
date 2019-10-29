@@ -39,8 +39,10 @@
   - I want to know `why you did that`.
   - 나는 `네가 그걸 왜 했는지` 알고 싶어.
   - `Why you study english` is important for me.
-  - `네가 영어를 좋아하는 이유`는 내게 중요해.
-  > why로 명사절이 주어일 때, 혹은 다른 문장구조와 헷갈릴 여지가 있을 땐 `the reason why ~`의 형태로 쓰기도 합니다.<br>
+  - `네가 영어를 좋아하는 이유`는 내게 중요해.<br>
+  <br>
+  
+  > why로 시작하는 명사절이 `주어일 때`, 혹은 `다른 문장구조와 헷갈릴 여지가 있을 때`는 `the reason why ~`의 형태로 쓰기도 합니다.<br>
   > EX: The reason why you study english is important for me.
 - when
   - `When I headed to airport` was late at night.
