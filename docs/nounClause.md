@@ -6,7 +6,7 @@
 - 의문사+ever로 시작하는 명사절
 
 ### 해석
-`~하는 것`
+`~하는 것` `~하는 지`
 ### 수일치
 명사절도 단수로 취급합니다. 따라서 단수동사와 함께 쓰입니다.
 
@@ -23,7 +23,29 @@
 
 ## 의문사로 시작하는 명사절
 ### 형태
-`의문사` + `불완전한 문장`<br>
-[구체적인 대답을 요구하는 의문문만들기](https://github.com/baesy0/learningEnglish/blob/master/docs/question.md#구체적인-대답을-요구하는-의문문)와 비슷합니다.
+`의문사` + `문장`<br>
+[구체적인 대답을 요구하는 의문문만들기](https://github.com/baesy0/learningEnglish/blob/master/docs/question.md#구체적인-대답을-요구하는-의문문)와 비슷합니다.<br>
 ### 예문
+- what
+  - This is `what I want to eat`.
+  - 이게 `내가 먹고 싶은 것`이야
+- who
+  - I want to know `who you like`.
+  - `네가 좋아하는 사람`을 알고 싶어.
+- where
+  - `Where I've stayed` is Mr.Ahn's house.
+  - `내가 머무른 곳`은 안씨네 집이다.
+- why
+  - I want to know `why you did that`.
+  - 나는 `네가 그걸 왜 했는지` 알고 싶어.
+  - `Why you study english` is important for me.
+  - `네가 영어를 좋아하는 이유`는 내게 중요해.<br>
+  <br>
+  
+  > why로 시작하는 명사절이 `주어일 때`, 혹은 `다른 문장구조와 헷갈릴 여지가 있을 때`는 `the reason why ~`의 형태로 쓰기도 합니다.<br>
+  > EX: The reason why you study english is important for me.
+- when
+  - `When I headed to airport` was late at night.
+  - `내가 공항으로 향했을 때`는 늦은 밤이었다.
+
 ## 의문사 + ever로 시작하는 명사절

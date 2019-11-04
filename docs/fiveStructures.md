@@ -1,7 +1,7 @@
 # 문장의 5형식
 영어 문장을 이루는 가장 기본적인 골격을 배울거에요.<br>
-영어가 한국어와 다른 점은 조사가 없다는 점인데요. 그래서 영어는 위치가 매우 중요합니다.
-조사가 없기 때문에 자리가 품사를 결정하기 때문이에요.
+영어가 한국어와 다른 점은 조사가 없다는 점인데요. 그래서 영어는 위치가 매우 중요합니다.<br>
+조사가 없기 때문에 자리가 품사를 결정하기 때문이에요.<br>
 그리고 그 자리(순서)는 총 다섯 가지 형태의 문장으로 약속되어 있습니다.<br>
 모든 문장은 결국 이 다섯 가지 형태로 나뉩니다.
 
@@ -13,7 +13,7 @@
 4형식| S + V + I.O + D.O
 5형식| S + V + O + O.C
 
-*S: Subject / V: Verb / C: Compemnet / O: Object / I.O: Indirect Object / D.O: Direct Object / O.C: Objective Complement.*
+*S: Subject / V: Verb / C: Complement / O: Object / I.O: Indirect Object / D.O: Direct Object / O.C: Objective Complement.*
 ## 1형식(S + V)
 주어 + 동사
 ### example sentences

@@ -11,6 +11,7 @@
   - [언어란. 언어를 배우는 것이란.](./docs/aboutLanguage.md)
   - [단어를 익히는 법](./docs/words.md)
   - 사전 활용 법
+- [Questions](docs/QnA.md)
 
 ## 1.
 - [x] [관사](docs/article.md)
@@ -31,9 +32,9 @@
 -----------------
 - [x] [명사](docs/nounPhraseClause.md)
   - [x] [명사구](docs/nounPhrase.md)(2019.10.09)
-  - [x] 명사절(2019.10.14)
+  - [x] [명사절](docs/nounClause.md)(2019.10.14)
     - 명사절 연습 - 문장 만들어보기 & 말해보기 (2019.10.21)
-    - Q & A(2019.10.27)
+    - [Q & A](docs/QnA_2.md)(2019.10.27)
 - [ ] 형용사
 - [ ] 부사
 ## 3. 전치사
