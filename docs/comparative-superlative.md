@@ -40,5 +40,5 @@ A + 동사 + 비교급형용사 + than + B.
 > A runs faster than B. A는 B보다 빠르게 달린다.
 ### 최상급
 A + 동사 + the + 최상급형용사 + 명사
-> A is tallest boy in his class. A는 그의 반에서 가장 키 큰 소년이다.<br>
+> A is the tallest boy in his class. A는 그의 반에서 가장 키 큰 소년이다.<br>
 > This is the easiest way. 이게 가장 쉬운 방법이다.
