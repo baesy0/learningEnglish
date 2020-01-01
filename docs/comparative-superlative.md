@@ -36,9 +36,9 @@ er대신 `more`, est 대신 `the most`를 씁니다.
 ## 비교급 / 최상급 문장 만들기
 ### 비교급
 A + 동사 + 비교급형용사 + than + B.
-> A is taller than B. A는 B보다 키가 크다.
+> A is taller than B. A는 B보다 키가 크다.<br>
 > A runs faster than B. A는 B보다 빠르게 달린다.
 ### 최상급
 A + 동사 + the + 최상급형용사 + 명사
-> A is tallest boy in his class. A는 그의 반에서 가장 키 큰 소년이다.
+> A is tallest boy in his class. A는 그의 반에서 가장 키 큰 소년이다.<br>
 > This is the easiest way. 이게 가장 쉬운 방법이다.
