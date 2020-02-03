@@ -1,4 +1,7 @@
 # learningEnglish
+# Speak in English
+[영어 회화는 여기로](docs/SpeakInEng/index.md)
+# Structure Of Sentences
 ## 0. Intro
 - [x] [목표 정하기](docs/goal.md)
 - [x] 실력테스트
