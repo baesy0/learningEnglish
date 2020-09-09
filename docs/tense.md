@@ -20,7 +20,8 @@ ex> `I take a shower.` `I'm taking a shower.` `I took a shower.` `I'll take a sh
 상에는 `단순`, `진행`, `완료`, `진행 완료`이 있습니다.
 
 ### 정리표
-영어에서는 시제와 상을 결합하여 시간을 표현합니다. 그래서 총 12개의 시제가 존재해요.<br>
+영어에서는 시제와 상을 결합하여 시간을 표현합니다.<br>
+그래서 총 12개의 시제가 존재해요.(시제 3개 x 상 4개)<br>
 정리하면 아래 표와 같습니다.
 <p align="center">
 <img src="./img/tense_aspect_chart.png" width="600"><br/>
