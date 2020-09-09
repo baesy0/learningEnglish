@@ -63,7 +63,9 @@
 ## 5. 태 / Voice
 - [x] [수동태](docs/passive.md)(2019.9.9)
 ## 6. 시제 / Tense
-## 7. 조동사
+- 시제의 종류
+- 미래
+## 7. 조동사 / Auxiliary verbs
 ## 8. 법 / Mood
 - 가정법
 
