@@ -35,7 +35,7 @@
 - [x] [품사](docs/partsOfSpeech.md)(2019.09.23)
 - [x] [문장의 뼈와 살](docs/partsOfSpeech2.md)(2019.09.30)
 -----------------
-- [x] [명사](docs/nounPhraseClause.md)
+- [x] [명사](docs/nounPhraseCluase.md)
   - [x] [명사구](docs/nounPhrase.md)(2019.10.09)
     - `to V`와 `V-ing`의 뉘앙스 차이와 각각이 어울리는 동사(2019.11.11)
     - `to V`와 `V-ing`가 각각 뜻이 다른 동사(2019.11.18)
