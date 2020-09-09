@@ -64,7 +64,7 @@
 - [x] [수동태](docs/passive.md)(2019.9.9)
 ## 6. 시제 / Tense + Aspect
 - [ ] [시제란](docs/tense.md)
-- 미래
+- [ ] [미래](docs/tense_future.md)
 ## 7. 조동사 / Auxiliary verbs
 ## 8. 법 / Mood
 - 가정법
