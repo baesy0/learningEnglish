@@ -5,7 +5,7 @@
 ex> `I take a shower.` `I'm taking a shower.` `I took a shower.` `I'll take a shower.`
 > [wiki](https://ko.wikipedia.org/wiki/시제)에서 시제에 관한 내용을 읽어보는 것도 재밌어요.<br>
 시제를 어떻게 사용하는지를 보면 우리가 어떻게 사고하는지 보이거든요<br>
-그리고 언어별로 시간을 어떻게 다르게 표현하는지 보면, 언어사용자마다 사고방식이 어떻게 다른지 보이거든요:)
+그리고 언어별로 시간을 어떻게 다르게 표현하는지 보면, 언어사용자마다 사고방식이 어떻게 다른지도 보여요!
 ## 시간표현의 구성
 시간 표현은 크게 시제*tense*와 상*aspect*로 구성되어 있어요.
 ### 시제 - tense
