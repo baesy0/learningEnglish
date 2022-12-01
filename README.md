@@ -1,6 +1,8 @@
-# learningEnglish
 # Speak in English
 [영어 회화는 여기로](docs/SpeakInEng/index.md)
+# Translate English
+[영어 통역](docs/translation.md)
+# learningEnglish
 # Structure Of Sentences
 ## 0. Intro
 - [x] [목표 정하기](docs/goal.md)
